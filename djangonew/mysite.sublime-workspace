@@ -1,0 +1,362 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"array"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"ba",
+				"background-blend-mode"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"i",
+				"iframe\tTag"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"n",
+				"newnode"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"ma",
+				"mark\tTag"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"H",
+				"H2\tTag"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"print",
+				"printList"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"ne",
+				"new_node"
+			],
+			[
+				"new",
+				"newdata"
+			],
+			[
+				"p",
+				"printList"
+			],
+			[
+				"pr",
+				"printlist"
+			],
+			[
+				"t",
+				"third"
+			],
+			[
+				"N",
+				"Node"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"python ",
+				"Build With: Python"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/python 3/plat.py",
+		"/D/python 3/randompair.py",
+		"/D/c/hello.cpp",
+		"/D/python 3/closestint.py",
+		"/D/python 3/countocc.py",
+		"/D/python 3/repofint.py",
+		"/D/python 3/hornersmethod.py",
+		"/D/python 3/footballmatch.py",
+		"/D/python 3/villagesandtribes.py",
+		"/D/python 3/daysinmonth.py",
+		"/D/python 3/chefandhiscake.py",
+		"/D/c/chefandhiscake.cpp",
+		"/D/python 3/smartstrategy.py",
+		"/D/python 3/mergesort.py",
+		"/D/python 3/binserach.py",
+		"/D/python 3/binsearchiter.py",
+		"/D/web development/html and css/1.html",
+		"/D/web development/html and css/1.css",
+		"/D/web development/html and css/7.html",
+		"/D/web development/html and css/6.html",
+		"/D/web development/html and css/5.html",
+		"/D/web development/html and css/4.html",
+		"/D/web development/html and css/3.html",
+		"/D/web development/html and css/2.html",
+		"/D/python 3/bubblesort.py",
+		"/D/python 3/armst.py",
+		"/D/python 3/area.py",
+		"/D/python 3/jumpsearch.py",
+		"/D/python 3/searchl.py",
+		"/D/python 3/tree.py",
+		"/D/python 3/sll1.py",
+		"/D/python 3/sll2.py",
+		"/D/python 3/sll.py",
+		"/D/python 3/kfib.py",
+		"/D/python 3/prime.py",
+		"/D/python 3/fib.py",
+		"/D/python 3/search.py",
+		"/D/python 3/rotarr.py",
+		"/D/python 3/revalrot.py",
+		"/D/python 3/array.py",
+		"/D/python 3/16.py",
+		"/D/web development/1",
+		"/D/python 3/djangonew/change/change/settings/base.py",
+		"/D/python 3/djangonew/change/change/settings/__init__.py",
+		"/D/python 3/djangonew/mysite.sublime-project"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "mysite.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
